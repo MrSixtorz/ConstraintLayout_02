@@ -11,10 +11,9 @@
         android:id="@+id/imageView"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@tools:sample/avatars"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/Circuloycuadrado" />
+        app:srcCompat="@drawable/circulo_cuadrado" />
 
     <TextView
         android:id="@+id/textView"
